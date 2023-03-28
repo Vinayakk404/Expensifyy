@@ -1,6 +1,6 @@
 # BUDGET-TRACKER
 
-### see the project [here](https://budget-tracker-react-speechly.netlify.app/).
+### see the project [here](https://expensifyyy.netlify.app/).
 
 ![budget-tracker](https://user-images.githubusercontent.com/46050946/183236123-0167b7b2-19cc-4925-8ace-9d3504e62f5d.png)
 
